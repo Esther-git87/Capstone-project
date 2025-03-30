@@ -46,7 +46,7 @@ the following power BI features were incorparated:
 ---
 
 The Mode is a star schema,
-There are 5-dimension tables and one fact table. the dimension tables are all joined to the fact tablewith one-to-many relationship.
+There are 5-dimension tables and one fact table. the dimension tables are all joined to the fact table with one-to-many relationship.
 
 ![](https://github.com/Esther-git87/Capstone-project/blob/main/Global%20superstore%20data%20modelling.png)
 ---
@@ -64,7 +64,7 @@ The Report comprises of 3 pages
 ![](https://github.com/Esther-git87/Capstone-project/blob/main/Global%20pg%201.png)
 
 Feature
-the three tabs are buttonwith hoveringeffect and each navigates to the page with similar name
+the three tabs are button with hovering effect and each navigates to the page with similar name
 
 
 ###Analysis
