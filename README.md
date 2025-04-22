@@ -1,17 +1,17 @@
-##GLOBAL SUPERSTORE ANALYSIS
+## GLOBAL SUPERSTORE ANALYSIS
 ---
 
 ![](https://github.com/Esther-git87/Capstone-project/blob/main/Global%20superstore%20image.png)
 ---
 
-##Introduction
+## Introduction
 
 
 **Global superstore** is a power BI Project on retail dataset representing a multinational retail company selling consumer goods, including office supplies, furniture and technology. The records include transactions across different product categories, regions and consumer segments, making it useful for sales and business analysis
 
 **_Disclaimer_**: _All datasets and reports do not represent any company or super market, but just a practice dataset to demonstrate capabilities of power BI_.
 
-##Problem statement
+## Problem statement
 
 •	Identify top-performing and underperforming regions, products, and customers.
 
@@ -21,7 +21,7 @@
 
 
 
-##Skills/ Concepts Demonstrated
+## Skills/ Concepts Demonstrated
 ---
 
 
@@ -42,7 +42,7 @@ the following power BI features were incorparated:
 -Page navigation
 
 
-##Modelling:
+## Modelling:
 ---
 
 The Mode is a star schema,
@@ -52,7 +52,7 @@ There are 5-dimension tables and one fact table. the dimension tables are all jo
 ---
 
 
-##Visualization
+## Visualization
 ---
 
 The Report comprises of 3 pages
@@ -67,7 +67,7 @@ Feature
 the three tabs are button with hovering effect and each navigates to the page with similar name
 
 
-###Analysis
+### Analysis
 
 
 
@@ -78,7 +78,7 @@ Most Profitable Products:
 •	GBC Ibimaster 500 Manual ProClick Binding System.
 
 
-###Underperforming Countries:
+### Underperforming Countries:
 
 
 ![](https://github.com/Esther-git87/Capstone-project/blob/main/global%20pg%202.png)
@@ -90,19 +90,19 @@ Least Profitable Cities in the USA: Concord, Atlanta, Waynesboro.
 High Return Rate: 17K returns indicate potential quality or customer dissatisfaction issues.
 
 
-###Top customers:
+### Top customers:
 
 ![](https://github.com/Esther-git87/Capstone-project/blob/main/Global%20pg%203.png)
 
 
 
-##Conclusion
+## Conclusion
 
 
 •	The Global Superstore has strong sales but faces profitability challenges in some regions and categories.
 •	Addressing inefficiencies and optimizing operations can enhance overall performance and revenue growth.
 
-##Recommendations
+## Recommendations
 
 
 •	The top customers should be given incentives to encourage their patronage.
